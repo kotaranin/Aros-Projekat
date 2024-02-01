@@ -7,6 +7,6 @@ Here are some additional specifications:
 • All three elves must invoke getHelp before any additional elves enter (increment the elf counter).
 Santa should run in a loop so he can help many sets of elves. We can assume that there are exactly 9 reindeer, but there may be any number of elves.
 
-Nakon kloniranja ovog repozitorijuma, program se pokreće na sledeći način:
+Nakon kloniranja ovog repozitorijuma, program se u terminalu pokreće na sledeći način:
 make kompajler
 ./a.out
