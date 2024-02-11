@@ -1,4 +1,4 @@
-##PROJEKAT - SANTA CLAUS PROBLEM
+## PROJEKAT - SANTA CLAUS PROBLEM
 
 Projekat predstavlja rešenje problema "Santa Claus" iz knjige "The Little Book of Semaphores" koji zadat na sledeći način:
 
