@@ -10,7 +10,7 @@
 #define BROJ_IRVASA 9
 
 pthread_t irvasiNiti[BROJ_IRVASA];
-pthread_t patuljciNiti[BROJ_IRVASA];
+pthread_t patuljciNiti[BROJ_PATULJAKA];
 pthread_t dedaMrazNit;
 
 int irvasiNiz[BROJ_IRVASA];
